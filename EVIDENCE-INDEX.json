@@ -2,9 +2,9 @@
   "format": "KINMEN-EVIDENCE-INDEX-1",
   "repo": "https://github.com/Kinmen6/Kinmen-evidence",
   "recordsDir": "records/",
-  "generatedAt": "2026-10-30T21:07:41.291Z",
+  "generatedAt": "2026-10-31T12:40:57.914Z",
   "note": "每期每个阶段一个固定 commit 链接，可直达 GitHub 存证文件。",
-  "total": 2508,
+  "total": 2509,
   "entries": [
     {
       "id": "2020-001",
@@ -17561,6 +17561,13 @@
       "file": "records/2026-304-precommit.json",
       "commit": "8d78771b0fa2a124aca58f86e9eb35d7c5a80243",
       "url": "https://github.com/Kinmen6/Kinmen-evidence/blob/8d78771b0fa2a124aca58f86e9eb35d7c5a80243/records/2026-304-precommit.json"
+    },
+    {
+      "id": "2026-304",
+      "phase": "revealed",
+      "file": "records/2026-304-revealed.json",
+      "commit": "78c386d0ed961bcb2bc230e8ce5174cb637a97b1",
+      "url": "https://github.com/Kinmen6/Kinmen-evidence/blob/78c386d0ed961bcb2bc230e8ce5174cb637a97b1/records/2026-304-revealed.json"
     }
   ]
 }
