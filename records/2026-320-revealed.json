@@ -1,0 +1,23 @@
+{
+  "id": "2026-320",
+  "drawDate": "2026-11-16",
+  "year": 2026,
+  "issueNumber": "320",
+  "commitment": "24b240175f33c29c70bd0e47fc12cbfcd940c28ca4bd86e5a62da0bdb16bd4f6",
+  "seed": "56d4ee1d02962311aff8f6445e7776c1b03540562a1c9985a06801a847820012",
+  "salt": "875a9fa8346486bd9b5113291167afc527f796f4eaf0443dda5850c4b5d8b2c5",
+  "numbers": [
+    45,
+    15,
+    14,
+    36,
+    7,
+    1
+  ],
+  "special": 26,
+  "commitAlgorithm": "SEED-COMMIT-3.0",
+  "revealedAt": "2026-11-16T12:32:45.002Z",
+  "drawingStartedAt": 1794832200001,
+  "scheduledRevealAt": 1794832200000,
+  "releaseTrigger": "core-scheduled-reveal"
+}
